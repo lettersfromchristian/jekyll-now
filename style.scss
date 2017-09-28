@@ -245,7 +245,12 @@ nav {
 //
 // .main
 //
-
+article.post h1 {
+    /* color: #444; */
+    font-family: 'Playfair Display SC', serif;
+    font-size: 1.2em;
+    letter-spacing: 4px;
+}
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
@@ -265,11 +270,8 @@ nav {
     font-size: 22px;
     font-style: italic;
   }
-	article.post h1 {
-    /* color: #444; */
-    font-family: 'Playfair Display SC', serif;
-    font-size: 1.2em;
-}
+
+
 
   .comments {
     margin-top: 10px;
