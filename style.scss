@@ -79,6 +79,12 @@ a {
   }
 }
 
+sup {
+    /* margin: initial; */
+    font-size: small;
+    vertical-align: super;
+}
+
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
