@@ -21,6 +21,8 @@ body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+  font-family: 'Fauna One', serif;
+
 }
 
 .container {
@@ -31,7 +33,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: 'Playfair Display', serif;
   color: $darkerGray;
   font-weight: bold;
 
@@ -157,6 +159,7 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
+  font-family: 'Playfair Display SC', serif;
 
   @include mobile {
     text-align: center;
