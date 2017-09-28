@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+Christian is a prolific letter-writer from the Alps. 
 
-A place to include any other types of information that you'd like to include about yourself.
+He enjoys long walks on the beach*, and his hobbies include transport and 'that other hobby'.
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+* Although they really must be _at least_ 2km to be counted as long. See letter dated _September 17th 2015_. 
